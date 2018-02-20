@@ -4,7 +4,10 @@ var path = require('path');
 
 var app = express();
 app.use(morgan('combined'));
-
+var article={'article-one':{
+    title : 'Article One',
+    data : 
+}
 
 
 
